@@ -1,2 +1,2 @@
-# Chat-app
-Chat application 
+# Trading-app
+Trading application 
